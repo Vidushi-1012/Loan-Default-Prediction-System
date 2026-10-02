@@ -1,0 +1,6 @@
+{
+  "name": "LoanGuard AI — Loan Prediction & Risk Assessment System",
+  "description": "Enterprise credit risk scoring, portfolio telemetry, automated default prediction, and model explainability system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
